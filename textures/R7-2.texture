@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "R7",
+  "identifier": "texture:912816-3d7bd0b5-c6fa-4033-bcc7-7fb6225bdfb8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "67e75d9036a598a6018ae4eec4fa46e0",
+  "assetLocator": "textures/R7.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "67e75d9036a598a6018ae4eec4fa46e0",
+      "colorCount": 71,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.7550158184050292,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
